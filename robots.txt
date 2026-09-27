@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.ukatqbn.cn/sitemap.xml
